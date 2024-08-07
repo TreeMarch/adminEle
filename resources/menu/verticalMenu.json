@@ -12,7 +12,7 @@
       "submenu": [
         {
           "url": "/",
-          "name": "Analytics",
+          "name": "quang",
           "slug": "dashboard-analytics"
         },
         {
